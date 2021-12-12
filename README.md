@@ -6,7 +6,3 @@ exploration of dsp and the faust programming language/environment
 * [Faust Online IDE](https://faustide.grame.fr/)
 * [Faust Syntax](https://faustdoc.grame.fr/manual/syntax/)
 * [Standard Library Ref](https://faustlibraries.grame.fr/organization/)
-* []()
-* []()
-* []()
-* []()
